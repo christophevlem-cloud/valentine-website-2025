@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 🫧 💞 💕
-    pageTitle: "Will you be my Bubble this Valentine? 💝",
+    pageTitle: "Veux-tu être ma bulle pour la Saint-Valentin? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -23,8 +23,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you tolerate me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
+            yesBtn: "Wi",                                             // Text for "Yes" button
+            noBtn: "T'es malade ou quoi?",                                               // Text for "No" button
             secretAnswer: "THIS IS THE RIGHT BUTTON HIHI🫧"           // Secret hover message
         },
         second: {
@@ -35,7 +35,7 @@ const CONFIG = {
         third: {
             text: "Will you be my Bubble on February 14th, 2025? 🌹", // The big question!
             yesBtn: "Si j'ai pas le choix..",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            noBtn: "Non"                                                 // Text for "No" button
         }
     },
 
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Lets get this🥰",
-        message: "Plz text me when you're done here, this was a mess to make,fml, plus jamais",
+        message: "Plz text me when you're done here, this was a mess to make, fml, plus jamais",
         emojis: "🎁💖🫧💝🥰❤️😍"  // These will bounce around
     },
 
