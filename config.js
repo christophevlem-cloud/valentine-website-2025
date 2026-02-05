@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://www.dropbox.com/scl/fi/u4u2zms3naj63y1lzxkx4/lilyanvlc.mp3?rlkey=6pmc9g8z7dw4poegw3950qnpo&e=1&st=20aybrs9&raw=1.mp3", // Music streaming URL
+        musicUrl: "lilyanvlc.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
