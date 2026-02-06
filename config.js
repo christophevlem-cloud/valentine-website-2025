@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Lets get this🥰",
-        message: "Plz text me when you're done here, this was a mess to make, fml, plus jamais",
+        title: "Petit date alors?",
+        message: "Le samedi 14 février, 18h00 sois prête. Talons, robe,.. Tout ce qui va avec, tant que tu te sens belle.",
         emojis: "🎁💖🫧💝🥰❤️😍"  // These will bounce around
     },
 
