@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Petit date alors?",
-        message: "Le samedi 14 février, 18h00 sois prête. Talons, robe,.. Tout ce qui va avec, tant que tu te sens belle.",
+        message: "Le samedi 14 février, talons, robe, 18h00 sois prête.",
         emojis: "🎁💖🫧💝🥰❤️😍"  // These will bounce around
     },
 
